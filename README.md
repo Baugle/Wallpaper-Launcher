@@ -31,6 +31,6 @@
 ### Qt6直接编译出来的程序无法在Windows7上使用，需要进一步修改编译:hushed:
 ### 保证在启动项中有此程序:sunglasses:
 # 问题
-### 在Issues中报告:blue_heart:
+### 在Issues中报告 :blue_heart:
 ### 在Gmail中报告:green_heart:
 ### 在Twitter中报告:heartpulse:
