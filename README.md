@@ -24,13 +24,13 @@
 ![image](https://github.com/user-attachments/assets/f2f4e6fe-5a6e-4bfe-8338-dab3a68e8250)
 
 # 鸣谢
-### CSDN的创建快捷指令帖子
-### 我的大脑和身体器官，熬夜陪伴我写代码
+### 我炙热的青春时光:blush:
+### 我的大脑和身体器官，熬夜陪伴我写代码:stuck_out_tongue_winking_eye:
 # 条件
-### 必须是Qt6及以上的版本，Qt6以下的版本需要修改后使用
-### Qt6直接编译出来的程序无法在Windows7上使用，需要进一步修改编译
-### 保证在启动项中有此程序
+### 必须是Qt6及以上的版本，Qt6以下的版本需要修改后使用:grin:
+### Qt6直接编译出来的程序无法在Windows7上使用，需要进一步修改编译:hushed:
+### 保证在启动项中有此程序:sunglasses:
 # 问题
-### 在Issues中报告
-### 在Gmail中报告
-### 在Twitter中报告
+### 在Issues中报告:blue_heart:
+### 在Gmail中报告:green_heart:
+### 在Twitter中报告:heartpulse:
