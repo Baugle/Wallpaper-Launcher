@@ -1,1 +1,1 @@
-  #Wallpaper Launcher
+#Wallpaper Launcher
